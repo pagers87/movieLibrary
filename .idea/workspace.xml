@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d80e227-e3a4-4114-92ce-79ffe59fad53" name="Changes" comment="first commit">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
@@ -13,6 +14,9 @@
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+>>>>>>> 5fe7a47 (pom update)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +49,17 @@
       <option name="presentableId" value="Default" />
       <updated>1685875318468</updated>
     </task>
+<<<<<<< HEAD
+=======
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1685875737082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685875737082</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+>>>>>>> 5fe7a47 (pom update)
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
